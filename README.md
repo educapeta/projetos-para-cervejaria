@@ -1,7 +1,7 @@
 # 🍺 Projetos para Cervejaria — Modelos 3D
 
 Peças e acessórios que desenvolvi para o meu processo cervejeiro caseiro: carbonatação forçada,
-adaptadores, suportes de instrumentação e o sistema **Cerveja Fácil / AgroKeg**. Tudo modelado no
+adaptadores, suportes de instrumentação e o sistema **AgroKeg para o leandro do Cerveja Fácil**. Tudo modelado no
 **SolidWorks** e pronto para **impressão 3D**.
 
 ---
